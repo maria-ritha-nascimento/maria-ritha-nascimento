@@ -8,20 +8,20 @@ As a passionate IT professional, I thrive in solving complex problems and buildi
 
 ## 💻 Tech Stack & Skills
 
-### DocChain (Blockchain Smart Contracts)
+### [DocChain (Blockchain Smart Contracts)](https://github.com/maria-ritha-nascimento/DocChain)
 - **Frameworks & Libraries:** Flask, Web3.py, Solcx
 - **Blockchain:** Ethereum, Ganache (local blockchain)
 - **Other Tools:** Solidity (for smart contract development), Web3.js
 - **Architecture:** RESTful API for interacting with Ethereum smart contracts
 
-### StockWise (Stock Management System)
+### [StockWise (Stock Management System)](https://github.com/maria-ritha-nascimento/stockwise)
 - **Programming Language:** Python
 - **Frameworks & Libraries:** FastAPI, SQLAlchemy, Pydantic
 - **Database:** SQLite
 - **Testing Framework:** pytest
 - **Architecture:** Modular with RESTful API endpoints
 
-### ComplianceHub (Risk and Compliance Management)
+### [ ComplianceHub (Risk and Compliance Management)](https://github.com/maria-ritha-nascimento/ComplianceHub)
 - **Programming Language:** Python 3.10+
 - **Framework:** FastAPI
 - **ORM:** SQLAlchemy
@@ -30,7 +30,7 @@ As a passionate IT professional, I thrive in solving complex problems and buildi
 - **Documentation:** Swagger/OpenAPI
 - **Testing Framework:** pytest
 
-### Smart Logistics Hub (Logistics Management System)
+### [Smart Logistics Hub (Logistics Management System)](https://github.com/maria-ritha-nascimento/SmartLogisticsHub)
 - **Programming Language:** Python 3.9+
 - **Framework:** Flask, Flask-RESTx
 - **Database:** SQLite (default)
@@ -44,30 +44,6 @@ As a passionate IT professional, I thrive in solving complex problems and buildi
 - **MBA in Software Engineering (In Progress)** – USP (Universidade de São Paulo)
 - **Bachelor's in Information Systems** – Estácio de Sá
 - **Technical Degree in Computer Networks** – Instituto Federal do Triângulo Mineiro
-
----
-
-## 🌟 Projects
-
-### [DocChain](https://github.com/maria-ritha-nascimento/DocChain)
-DocChain is a backend application for creating, deploying, and interacting with smart contracts on the Ethereum blockchain. It provides a simple architecture for smart contract deployment and integration with Ethereum’s local blockchain (Ganache). The project aims to automate processes and validations with blockchain technology, ensuring trust and traceability.
-
-- **Technologies Used:** Flask, Web3.py, Solcx, Ganache, Solidity
-
-### [StockWise](https://github.com/maria-ritha-nascimento/stockwise)
-StockWise is a stock management system built using Python and FastAPI. The system helps small to medium-sized businesses efficiently manage inventory with CRUD operations. It leverages SQLAlchemy as the ORM and uses SQLite for data persistence.
-
-- **Technologies Used:** Python, FastAPI, SQLAlchemy, SQLite, Pydantic, pytest
-
-### [ComplianceHub](https://github.com/maria-ritha-nascimento/ComplianceHub)
-ComplianceHub is a backend application for risk and compliance management. Built using FastAPI, the platform helps identify, manage, and mitigate corporate risks while ensuring regulatory compliance. The project supports extensibility and scalability with a modular design.
-
-- **Technologies Used:** Python, FastAPI, SQLAlchemy, SQLite, JWT (in development), Swagger/OpenAPI, pytest
-
-### [Smart Logistics Hub](https://github.com/maria-ritha-nascimento/SmartLogisticsHub)
-Smart Logistics Hub is an intelligent logistics management solution that provides a RESTful API for managing and tracking packages. With functionalities such as filtering and automated documentation, it offers a flexible, easy-to-use system ideal for logistics businesses.
-
-- **Technologies Used:** Python, Flask, Flask-RESTx, SQLite, Swagger (via Flask-RESTx)
 
 ---
 
