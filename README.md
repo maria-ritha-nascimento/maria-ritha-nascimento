@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Maria
 
-I'm a **Specialist in Information Technology** with 5 years of experience in the field. Currently pursuing an MBA in Software Engineering at **USP** (University of São Paulo), and I hold a **Bachelor's degree in Information Systems** and a **Technical degree in Computer Networks**.
+I'm a **Specialist in Information Technology** with 5 years of experience in the field. Currently pursuing an MBA in Software Engineering at **USP** (Universidade de São Paulo), and I hold a **Bachelor's degree in Information Systems** and a **Technical degree in Computer Networks**.
 
 As a passionate IT professional, I thrive in solving complex problems and building innovative solutions that enhance business processes. I specialize in a variety of technologies and enjoy constantly learning and adapting to new tools and methodologies in the ever-evolving tech landscape.
 
@@ -41,7 +41,7 @@ As a passionate IT professional, I thrive in solving complex problems and buildi
 
 ## 🎓 Education
 
-- **MBA in Software Engineering (In Progress)** – USP (University of São Paulo)
+- **MBA in Software Engineering (In Progress)** – USP (Universidade de São Paulo)
 - **Bachelor's in Information Systems** – Estácio de Sá
 - **Technical Degree in Computer Networks** – Instituto Federal do Triângulo Mineiro
 
