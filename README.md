@@ -8,6 +8,20 @@ As a passionate IT professional, I thrive in solving complex problems and buildi
 
 ## 💻 Tech Stack & Skills
 
+### [BugHunter (Security Analysis Tool)](https://github.com/maria-ritha-nascimento/BugHunter)
+- **Programming Language:** Python 3.13+
+- **Frameworks:** Flask, Flask-CORS
+- **Libraries:** Requests, BeautifulSoup, ReportLab
+- **Features:**
+  - Advanced Port Scanner
+  - Vulnerability Scanner with NIST CVE database integration
+  - Web Application Scanner for common vulnerabilities (e.g., SQL Injection, XSS)
+  - DNS Configuration Analysis
+  - SSL/TLS Certificate Inspection
+  - Automated PDF/JSON Report Generation
+- **Documentation:** Swagger UI
+- **Testing:** pytest
+
 ### [DocChain (Blockchain Smart Contracts)](https://github.com/maria-ritha-nascimento/DocChain)
 - **Frameworks & Libraries:** Flask, Web3.py, Solcx
 - **Blockchain:** Ethereum, Ganache (local blockchain)
@@ -21,7 +35,7 @@ As a passionate IT professional, I thrive in solving complex problems and buildi
 - **Testing Framework:** pytest
 - **Architecture:** Modular with RESTful API endpoints
 
-### [ ComplianceHub (Risk and Compliance Management)](https://github.com/maria-ritha-nascimento/ComplianceHub)
+### [ComplianceHub (Risk and Compliance Management)](https://github.com/maria-ritha-nascimento/ComplianceHub)
 - **Programming Language:** Python 3.10+
 - **Framework:** FastAPI
 - **ORM:** SQLAlchemy
@@ -53,13 +67,13 @@ With 5 years of hands-on experience, I have worked in diverse areas of IT, from 
 
 ---
 
-## 📖 Personal Interests & Hobbies
+## 📚 Personal Interests & Hobbies
 
 When I'm not coding or learning new technologies, you can find me:
 
 - **Reading books** 📚 – I’m passionate about personal development, technology, and fiction.
 - **Writing** ✍️ – I love expressing my thoughts and ideas through writing, whether it's technical articles, stories or personal reflections.
-- **Watching Movies and Series** 🎬 – A great way to relax and find inspiration!
+- **Watching Movies and Series** 🎥 – A great way to relax and find inspiration!
 
 ---
 
